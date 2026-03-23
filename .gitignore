@@ -5,6 +5,10 @@ dist/
 out/
 build/
 
+# PRDs and Private Documentation
+JC_Summit_LiveCards_PRD.md
+architecture_and_codebase_guide.md
+
 # Environment Variables
 .env
 .env.local
