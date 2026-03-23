@@ -2,7 +2,6 @@
 
 A premium, real-time question display system developed for **ACM MUJ** events. Built with a focus on high-agency design, cinematic animations, and instant WebSocket synchronization.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
