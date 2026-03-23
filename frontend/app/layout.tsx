@@ -17,6 +17,9 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: 'JC Summit — LiveCards | ACM MUJ',
   description: 'Real-time question display for JC Summit by ACM Manipal University Jaipur',
+  icons: {
+    icon: '/icon.png',
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
