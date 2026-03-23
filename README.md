@@ -3,10 +3,12 @@
 A premium, real-time question display system developed for **ACM MUJ** events. Built with a focus on high-agency design, cinematic animations, and instant WebSocket synchronization.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![React](https://img.shields.io/badge/React-19-blue.svg)
-![Next.js](https://img.shields.io/badge/Next.js-15-black.svg)
-![Express](https://img.shields.io/badge/Express-4.21-green.svg)
-![WebSocket](https://img.shields.io/badge/WebSocket-WS-orange.svg)
+![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
